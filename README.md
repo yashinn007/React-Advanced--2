@@ -1,4 +1,4 @@
-<img width="800 alt="image" src="https://github.com/user-attachments/assets/c7947adc-8d75-4fa9-87db-4a3a5b679f64" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/6c235a53-65c3-42f7-81b7-4af371f341f0" />
 
 <h2>React Advanced part-2</h2>
 1. Explore dynamic route, </br>
